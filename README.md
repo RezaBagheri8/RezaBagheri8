@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">.NET Back-End Developer</h3>
 
-<img align="right" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fchethanreddy123&psig=AOvVaw21momPK3uYle5bbg49grsb&ust=1668775095078000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNj9xOedtfsCFQAAAAAdAAAAABAW" />
+<img align="right" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F4491062-programmer-working-concept-for-web-banner-man-work-with-code-and-programming-at-computer-creates-software-modern-person-scene-vector-illustration-in-flat-cartoon-design-with-people-characters&psig=AOvVaw21momPK3uYle5bbg49grsb&ust=1668775095078000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNj9xOedtfsCFQAAAAAdAAAAABAg" />
 
 - 🔭 I’m currently working on [Noghte](https://github.com/Noghte-Group/Noghte.Server)
 
