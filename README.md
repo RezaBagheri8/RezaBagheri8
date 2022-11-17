@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">.NET Back-End Developer</h3>
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611879d08eeb239bb39852168f0e985b5225f7b0bbb&rid=giphy.gif&ct=g"/>
 
 - 🔭 I’m currently working on [Noghte](https://github.com/Noghte-Group/Noghte.Server)
 
