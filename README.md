@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rezabagheri3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RezaBagheri" height="30" width="40" /></a>
   
-  <a href="https://t.me/RezaBagheri31"><img align="left" src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" alt="RezaBagheri" height="40" width="40" /><a/>
+  <a href="https://t.me/RezaBagheri31" position="absolute"><img align="left" src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" alt="RezaBagheri" height="40" width="40" /><a/>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
