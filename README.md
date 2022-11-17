@@ -18,10 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rezabagheri3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezabagheri3" height="30" width="40" /></a>
-  
-   <a href="https://t.me/RezaBagheri31" alt="Contact on Telegram">
-   <img src="https://img.shields.io/badge/-mjebrahimi-grey?style=flat&logo=Telegram&logoColor=white" />
- </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
