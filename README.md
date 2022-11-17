@@ -3,7 +3,7 @@
 
 <img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611879d08eeb239bb39852168f0e985b5225f7b0bbb&rid=giphy.gif&ct=g"/>
 
-- ⚡ 
+- ⚡ I am a big fan of **.NET** and I am interested in **Software Architecture**
 
 - 🔭 I’m currently working on [Noghte](https://github.com/Noghte-Group/Noghte.Server)
 
