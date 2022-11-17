@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">.NET Back-End Developer</h3>
 
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fchethanreddy123&psig=AOvVaw21momPK3uYle5bbg49grsb&ust=1668775095078000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNj9xOedtfsCFQAAAAAdAAAAABAW" />
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rezabagheri8" alt="rezabagheri8" /></a> </p>
-
 - 🔭 I’m currently working on [Noghte](https://github.com/Noghte-Group/Noghte.Server)
 
 - 🌱 I’m currently learning **Ef Core, Microservice, Design Patterns**
